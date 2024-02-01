@@ -291,7 +291,6 @@ int prune()
   }
 }
 
-  // Don't modify any code beneath this line or the TVA will prune you!!!
 private:
   int size;
   node *head;
